@@ -21,11 +21,11 @@ This is a simple Java program that automates patient triage in a hospital emerge
 
 ## What Java Concepts Are Used
 
-• CO1 (Basics): Variables, arrays, Scanner input, data types
-• CO2 (Loops & Conditions): For loops, if-else statements, validation
-• CO3 (Arrays & Algorithms): Array operations, finding maximum values
+- CO1 (Basics): Variables, arrays, Scanner input, data types
+- CO2 (Loops & Conditions): For loops, if-else statements, validation
+- CO3 (Arrays & Algorithms): Array operations, finding maximum values
 
 ## Team
 
-• T. Divya - 2620040079
-• K. Naadhiyah - 2620030325
+- T. Divya - 2620040079
+- K. Naadhiyah - 2620030325
